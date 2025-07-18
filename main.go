@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//First status
 func Add(a, b int) int {
 	return a + b
 }
